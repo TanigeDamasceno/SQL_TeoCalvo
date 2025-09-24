@@ -1,6 +1,7 @@
 --Lista de transaçõe com apenas 1 ponto 
 
-SELECT IdTransacao, QtdePontos
+SELECT IdTransacao,
+        QtdePontos
 
 FROM transacoes
 
